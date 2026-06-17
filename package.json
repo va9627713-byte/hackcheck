@@ -1,0 +1,29 @@
+{
+  "name": "codebites26-hack-checker",
+  "version": "1.0.0",
+  "description": "Interactive cybersecurity awareness quiz - Check if your device has been hacked",
+  "main": "codebites26_viral_hack_checker.html",
+  "scripts": {
+    "start": "python -m http.server 8000 || npx http-server",
+    "serve": "npx http-server -p 8000"
+  },
+  "keywords": [
+    "cybersecurity",
+    "security-awareness",
+    "hacking",
+    "malware",
+    "hindi",
+    "education",
+    "quiz"
+  ],
+  "author": "CodeBites26",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/hackcheck.git"
+  },
+  "homepage": "https://hackcheck.vercel.app",
+  "bugs": {
+    "url": "https://github.com/yourusername/hackcheck/issues"
+  }
+}
