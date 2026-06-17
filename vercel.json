@@ -1,8 +1,5 @@
 {
-  "projectName": "CodeBites26 Hack Checker",
   "buildCommand": "echo 'Static site - no build needed'",
-  "cleanUrls": false,
-  "trailingSlash": false,
   "routes": [
     {
       "src": "/(.*)",
